@@ -1,0 +1,23 @@
+button.main-btn {
+  background-color: rgb(97, 194, 0);
+  color: white;
+
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+
+  margin-left: 10px;
+
+  flex: 1;
+
+  cursor: pointer;
+  transition: 0.2s all;
+}
+
+button.main-btn:hover {
+  background-color: rgb(112, 224, 0);
+}

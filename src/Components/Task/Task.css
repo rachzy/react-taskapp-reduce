@@ -1,0 +1,26 @@
+div.task {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+
+  border: 1px solid chartreuse;
+  border-radius: 10px;
+
+  height: 40px;
+  padding: 5px 10px;
+
+  width: 95%;
+
+  margin-block: 1vh;
+  cursor: pointer;
+}
+
+div.task p {
+  color: white;
+  font-weight: bold;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 80%;
+}

@@ -1,0 +1,19 @@
+div.add-task-container {
+  margin-bottom: 3vh;
+}
+
+form {
+  display: flex;
+  width: 100%;
+}
+
+input.add-task {
+  outline: none;
+  background-color: black;
+  color: white;
+  border: 1px solid chartreuse;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: "Poppins", sans-serif;
+  flex: 2;
+}
