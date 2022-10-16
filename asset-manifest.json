@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-taskapp-reduce/static/css/main.4df2a279.css",
+    "main.js": "/react-taskapp-reduce/static/js/main.a6d68722.js",
+    "index.html": "/react-taskapp-reduce/index.html",
+    "main.4df2a279.css.map": "/react-taskapp-reduce/static/css/main.4df2a279.css.map",
+    "main.a6d68722.js.map": "/react-taskapp-reduce/static/js/main.a6d68722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df2a279.css",
+    "static/js/main.a6d68722.js"
+  ]
+}
